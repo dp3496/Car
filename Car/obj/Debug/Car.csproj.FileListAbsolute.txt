@@ -1,0 +1,14 @@
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\bin\Debug\Car.exe.config
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\bin\Debug\Car.exe
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\bin\Debug\Car.pdb
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\obj\Debug\Car.exe
+C:\Users\durga.naganaboina\source\repos\Mobile\Car\obj\Debug\Car.pdb
+C:\Users\durga.naganaboina\source\repos\Car\Car\bin\Debug\Car.exe.config
+C:\Users\durga.naganaboina\source\repos\Car\Car\bin\Debug\Car.exe
+C:\Users\durga.naganaboina\source\repos\Car\Car\bin\Debug\Car.pdb
+C:\Users\durga.naganaboina\source\repos\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\durga.naganaboina\source\repos\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\durga.naganaboina\source\repos\Car\Car\obj\Debug\Car.exe
+C:\Users\durga.naganaboina\source\repos\Car\Car\obj\Debug\Car.pdb
